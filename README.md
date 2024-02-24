@@ -73,3 +73,8 @@ Aplikacja korzysta z Entity Framework Core do komunikacji z bazą danych. Model 
 # Autorzy
 Paulina D.
 Jolanta N.
+
+## Licencja
+
+Ten projekt jest objęty [licencją MIT](https://couto.mit-license.org/). Szczegółowe informacje można znaleźć w pliku [LICENSE](LICENSE).
+
