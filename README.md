@@ -23,17 +23,13 @@ MVCMovieBase to projekt oparty na architekturze MVC (Model-View-Controller) w ś
 - **Startup.cs** - Konfiguracja i konfiguracja usług aplikacji
 
 ## Model Danych
+Klasa `MovieReview` reprezentuje recenzję filmową i zawiera następujące pola:
 
-Aplikacja wykorzystuje model danych do przechowywania recenzji filmowych. Przykładowy model `MovieReview` może wyglądać tak:
-
-```csharp
-public class MovieReview
-{
-    public int Id { get; set; }
-    public string Title { get; set; }
-    public string ReviewText { get; set; }
-    public int Rating { get; set; }
-}
+- `Id`: Unikalny identyfikator recenzji.
+- `Title`: Tytuł recenzji.
+- `ReviewText`: Treść recenzji.
+- `Rating`: Ocena filmu, zwykle wyrażana jako liczba całkowita.
+  
 # Kontrolery
 
 ## HomeController
