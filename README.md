@@ -66,11 +66,8 @@ Aplikacja korzysta z Entity Framework Core do komunikacji z bazą danych. Model 
 1. Skonfiguruj połączenie do bazy danych w pliku `appsettings.json`.
 2. Uruchom migracje, aby utworzyć bazę danych:
 
-'''bash
+```bash
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 dotnet run
 
-# Autorzy
-Paulina D.
-Jolanta N.
