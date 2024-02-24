@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\bin\Debug\net7.0\InitialData\movies-mock-data.json
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\bin\Debug\net7.0\MVCMovieBase.Infrasctructure.deps.json
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\bin\Debug\net7.0\MVCMovieBase.Infrasctructure.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\bin\Debug\net7.0\MVCMovieBase.Infrasctructure.pdb
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\MVCMovieBase.Infrasctructure.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\MVCMovieBase.Infrasctructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\MVCMovieBase.Infrasctructure.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\MVCMovieBase.Infrasctructure.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\MVCMovieBase.Infrasctructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\MVCMovieBase.Infrasctructure.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\refint\MVCMovieBase.Infrasctructure.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\MVCMovieBase.Infrasctructure.pdb
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Infrasctructure\obj\Debug\net7.0\ref\MVCMovieBase.Infrasctructure.dll
