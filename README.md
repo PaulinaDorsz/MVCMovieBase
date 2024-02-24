@@ -1,23 +1,25 @@
-+ Dokumentacja Projektu MVCMovieBase<br>
-+ Opis Projektu<br>
-+ MVCMovieBase to projekt oparty na architekturze MVC (Model-View-Controller) w środowisku .NET. Celem projektu jest zarządzanie kolekcją recenzji filmowych. Aplikacja umożliwia dodawanie, edytowanie, usuwanie i przeglądanie recenzji filmów.
+# Dokumentacja Projektu MVCMovieBase<br>
+# Opis Projektu<br>
+  MVCMovieBase to projekt oparty na architekturze MVC (Model-View-Controller) w środowisku .NET. Celem projektu jest zarządzanie kolekcją recenzji filmowych. Aplikacja umożliwia dodawanie, edytowanie, usuwanie i przeglądanie recenzji filmów.
 
-+ Technologie<br>
+# Technologie<br>
 + .NET Core MVC<br>
 + C#<br>
 + Entity Framework Core<br>
 + HTML<br>
 + CSS<br>
 + JavaScript<br>
-+ Struktura Projektu<br>
+
+# Struktura Projektu<br>
 + Controllers/ - Kontrolery obsługujące żądania HTTP<br>
 + Models/ - Modele reprezentujące dane aplikacji<br>
 + Views/ - Widoki renderujące interfejs użytkownika<br>
 + wwwroot/ - Zasoby statyczne (CSS, JavaScript)<br>
 + appsettings.json - Konfiguracja aplikacji<br>
 + Startup.cs - Konfiguracja i konfiguracja usług aplikacji<br>
-+ Model Danych<br>
-+ Aplikacja wykorzystuje model danych do przechowywania recenzji filmowych. Przykładowy model MovieReview może wyglądać tak:<br>
+
+# Model Danych<br>
+ Aplikacja wykorzystuje model danych do przechowywania recenzji filmowych. Przykładowy model MovieReview może wyglądać tak:<br>
 
 + csharp<br>
 + Copy code<br>
