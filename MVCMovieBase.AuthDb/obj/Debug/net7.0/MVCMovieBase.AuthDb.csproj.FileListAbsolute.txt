@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\bin\Debug\net7.0\MVCMovieBase.AuthDb.deps.json
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\bin\Debug\net7.0\MVCMovieBase.AuthDb.runtimeconfig.json
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\bin\Debug\net7.0\MVCMovieBase.AuthDb.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\bin\Debug\net7.0\MVCMovieBase.AuthDb.pdb
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\refint\MVCMovieBase.AuthDb.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.pdb
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\MVCMovieBase.AuthDb.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.AuthDb\obj\Debug\net7.0\ref\MVCMovieBase.AuthDb.dll
