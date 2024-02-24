@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\bin\Debug\net7.0\MVCMovieBase.Common.deps.json
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\bin\Debug\net7.0\MVCMovieBase.Common.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\bin\Debug\net7.0\MVCMovieBase.Common.pdb
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\MVCMovieBase.Common.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\MVCMovieBase.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\MVCMovieBase.Common.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\MVCMovieBase.Common.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\MVCMovieBase.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\MVCMovieBase.Common.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\refint\MVCMovieBase.Common.dll
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\MVCMovieBase.Common.pdb
+C:\Users\Admin\OneDrive\Pulpit\MVCMovieBase\MVCMovieBase.Common\obj\Debug\net7.0\ref\MVCMovieBase.Common.dll
